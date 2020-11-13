@@ -1,12 +1,11 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-           
-            {
-                "appID": "Y4CZPABXLV.com.grandsoft.gbq5",
-                "paths": [ "/zjy/*" ,"/apple-app-site-association"]
-            }
-        ]
-    }
+{  
+    "applinks": {  
+        "apps": [],  
+        "details": [  
+            {  
+                "appID": "Y4CZPABXLV.com.grandsoft.gbq5",  
+                "paths": [  "/zjy/*" ,"/apple-app-site-association"]  
+            }  
+        ]  
+    }  
 }
